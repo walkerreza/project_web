@@ -1,6 +1,6 @@
 <?php
 // Konfigurasi dasar
-$pageTitle = "Website Modern";
+$pageTitle = "Website lama";
 $description = "Tampilan sederhana modern dengan PHP";
 
 // Data konten (dalam aplikasi nyata, ini bisa berasal dari database)
@@ -95,7 +95,7 @@ $teamMembers = [
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <h1>Solusi Digital Modern</h1>
+                    <h1>solusi website</h1>
                     <p class="lead">Kami menyediakan layanan terbaik untuk kebutuhan digital Anda dengan teknologi terkini.</p>
                     <div class="hero-buttons">
                         <a href="#contact" class="btn btn-primary">Hubungi Kami</a>
